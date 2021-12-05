@@ -1,0 +1,25 @@
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+header {
+    display: flex;
+    flex-direction: row;
+    gap: 1000px;
+    align-items: center;
+    justify-content: center;
+}
+.list_button{
+    display: flex;
+    flex-direction: row;
+    gap:40px ;
+}
+.logo img {
+    width: 150px;
+}
+
+.first-lading {
+    display: grid;
+    grid-template-columns: 500px 500px;
+    grid-template-rows: 200px;
+    gap: 20px;
+}
